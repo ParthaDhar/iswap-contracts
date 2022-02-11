@@ -16,11 +16,11 @@
             "mainnet": {
                 "factory": {
 			"Base58": "THjkNcpt6REREuzUuzpakxkZ36rNkjTfDN",
-			"AsciiHex": ""
+			"AsciiHex": "0x55355edf47517016b4431b899e136e1bfc3350d8"
                 },
                 "router": {
-			"Base58": "TRDQkNzimwuqzeBb7vM6kWU8RYqEUSX3ho",
-			"AsciiHex": ""
+			"Base58": "TJjGSSmeaD79AkFZsajY9M9wwX633ajynJ",
+			"AsciiHex": "0x60162da0738bbb6def8730f76bf4661a6f705ce3"
                 },
                 "init-code-hash": ""
             }
