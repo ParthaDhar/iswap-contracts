@@ -4,23 +4,23 @@
             "blockchain": "tron-network",
 			"shasta": {
                 "factory": {
-                    "Base58": "TXd2JtpZqJphmkK8i4KBUDEVaWNTrz2GYU",
-					"AsciiHex": "0xed8185b97e71435f5c37381a8b4d050b5daee972"
+			"Base58": "TXd2JtpZqJphmkK8i4KBUDEVaWNTrz2GYU",
+			"AsciiHex": "0xed8185b97e71435f5c37381a8b4d050b5daee972"
                 },
                 "router": {
-                    "Base58": "THHrZWtqEDXcN2pQEpXj3GADSXGxKLfrCp",
-					"AsciiHex": "0x504fb89223b5772f563755e25a9b95919bfa5b06"
+			"Base58": "THHrZWtqEDXcN2pQEpXj3GADSXGxKLfrCp",
+			"AsciiHex": "0x504fb89223b5772f563755e25a9b95919bfa5b06"
                 },
                 "init-code-hash": "0xecf3ad9b15e86f3ebbd9cb0ef01ca73f48a403eb2e294faa6057b1a364723bc5"
             },
             "mainnet": {
                 "factory": {
-                    "Base58": "THjkNcpt6REREuzUuzpakxkZ36rNkjTfDN",
-					"AsciiHex": ""
+			"Base58": "THjkNcpt6REREuzUuzpakxkZ36rNkjTfDN",
+			"AsciiHex": ""
                 },
                 "router": {
-                    "Base58": "TRDQkNzimwuqzeBb7vM6kWU8RYqEUSX3ho",
-					"AsciiHex": ""
+			"Base58": "TRDQkNzimwuqzeBb7vM6kWU8RYqEUSX3ho",
+			"AsciiHex": ""
                 },
                 "init-code-hash": ""
             }
@@ -29,23 +29,23 @@
             "blockchain": "binance-smart-chain",
 			"testnet": {
                 "factory": {
-                    "Base58": "",
-					"AsciiHex": ""
+			"Base58": "",
+			"AsciiHex": ""
                 },
                 "router": {
-                    "Base58": "",
-					"AsciiHex": ""
+			"Base58": "",
+			"AsciiHex": ""
                 },
                 "init-code-hash": ""
             },
             "mainnet": {
                 "factory": {
-                    "Base58": "",
-					"AsciiHex": ""
+			"Base58": "",
+			"AsciiHex": ""
                 },
                 "router": {
-                    "Base58": "",
-					"AsciiHex": ""
+			"Base58": "",
+			"AsciiHex": ""
                 },
                 "init-code-hash": ""
             }
