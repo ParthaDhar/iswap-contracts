@@ -11,6 +11,10 @@
 			"Base58": "THHrZWtqEDXcN2pQEpXj3GADSXGxKLfrCp",
 			"AsciiHex": "0x504fb89223b5772f563755e25a9b95919bfa5b06"
                 },
+                "routerwithhash": {
+			"Base58": "THzsfn5WffCYGnFR8Sg7C8hPVV2ZcTwdAH",
+			"AsciiHex": "0x5811b3466d0c8c7eb9023f33caefaebad634f7f6"
+                },
                 "init-code-hash": "0xecf3ad9b15e86f3ebbd9cb0ef01ca73f48a403eb2e294faa6057b1a364723bc5"
             },
             "mainnet": {
