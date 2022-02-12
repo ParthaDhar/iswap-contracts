@@ -4,28 +4,29 @@
             "blockchain": "tron-network",
 			"shasta": {
                 "factory": {
-			"Base58": "TXd2JtpZqJphmkK8i4KBUDEVaWNTrz2GYU",
-			"AsciiHex": "0xed8185b97e71435f5c37381a8b4d050b5daee972"
+                    "Base58": "TXd2JtpZqJphmkK8i4KBUDEVaWNTrz2GYU",
+                    "AsciiHex": "0XED8185B97E71435F5C37381A8B4D050B5DAEE972"
                 },
                 "router": {
-			"Base58": "THHrZWtqEDXcN2pQEpXj3GADSXGxKLfrCp",
-			"AsciiHex": "0x504fb89223b5772f563755e25a9b95919bfa5b06"
+                    "Base58": "THHrZWtqEDXcN2pQEpXj3GADSXGxKLfrCp",
+                    "AsciiHex": "0X504FB89223B5772F563755E25A9B95919BFA5B06"
                 },
                 "routerwithhash": {
-			"Base58": "THzsfn5WffCYGnFR8Sg7C8hPVV2ZcTwdAH",
-			"AsciiHex": "0x5811b3466d0c8c7eb9023f33caefaebad634f7f6"
+                    "Base58": "THzsfn5WffCYGnFR8Sg7C8hPVV2ZcTwdAH",
+                    "AsciiHex": "0X5811B3466D0C8C7EB9023F33CAEFAEBAD634F7F6"
                 },
                 "init-code-hash": "0xecf3ad9b15e86f3ebbd9cb0ef01ca73f48a403eb2e294faa6057b1a364723bc5"
             },
             "mainnet": {
                 "factory": {
-			"Base58": "THjkNcpt6REREuzUuzpakxkZ36rNkjTfDN",
-			"AsciiHex": "0x55355edf47517016b4431b899e136e1bfc3350d8"
+                    "Base58": "THjkNcpt6REREuzUuzpakxkZ36rNkjTfDN",
+                    "AsciiHex": "0X55355EDF47517016B4431B899E136E1BFC3350D8"
                 },
                 "router": {
-			"Base58": "TJjGSSmeaD79AkFZsajY9M9wwX633ajynJ",
-			"AsciiHex": "0x60162da0738bbb6def8730f76bf4661a6f705ce3"
+                    "Base58": "TJjGSSmeaD79AkFZsajY9M9wwX633ajynJ",
+                    "AsciiHex": "0X60162DA0738BBB6DEF8730F76BF4661A6F705CE3"
                 },
+                "WTRX": "0x891cdb91d149f23b1a45d9c5ca78a88d0cb44c18",
                 "init-code-hash": "0xc7021a80df4cf37e286cfa54c51bef6609254f47609cf515646bfaf5622cdb91"
             }
         },
