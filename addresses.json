@@ -31,17 +31,17 @@
             }
         },
         "bsc": {
-            "blockchain": "binance-smart-chain",
+            "blockchain": "binance-smart-chain", "BSC",
 			"testnet": {
                 "factory": {
 			"Base58": "",
-			"AsciiHex": ""
+			"AsciiHex": "0xbe4D2E2F62C4ad00cD20F41B87eE79CcB61f925B"
                 },
                 "router": {
 			"Base58": "",
-			"AsciiHex": ""
+			"AsciiHex": "0x587b42740378Da8BC09fadd17BcB4E6f9DE15F2e"
                 },
-                "init-code-hash": ""
+                "init-code-hash": "0x4741d1fd505baa826962c8416a3203d0b5164a766ce4f3c187bfd5be739529df "
             },
             "mainnet": {
                 "factory": {
