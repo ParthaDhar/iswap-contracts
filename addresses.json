@@ -42,6 +42,7 @@
 			"AsciiHex": "0x587b42740378Da8BC09fadd17BcB4E6f9DE15F2e"
                 },
                 "init-code-hash": "0x4741d1fd505baa826962c8416a3203d0b5164a766ce4f3c187bfd5be739529df "
+		"WBNB": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
             },
             "mainnet": {
                 "factory": {
